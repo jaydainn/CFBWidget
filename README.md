@@ -6,6 +6,7 @@ CFBWidget is a scriptable made widget that allows you to quickly look at your fa
 
 
 ## Installation 
+![img2](./docs/IMG_2385.PNG)
 
 Choose your team from the following List:
 - Abilene Christian
